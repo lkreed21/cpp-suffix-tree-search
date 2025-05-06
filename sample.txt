@@ -1,0 +1,1 @@
+The quick brown fox jumps over the lazy dog. The suffix tree is a powerful data structure. Searches become lightning fast once the tree is built.
