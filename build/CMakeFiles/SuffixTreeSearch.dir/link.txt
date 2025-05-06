@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SuffixTreeSearch.dir/app/main.cpp.o CMakeFiles/SuffixTreeSearch.dir/code/SuffixTree.cpp.o -o SuffixTreeSearch 
